@@ -1,4 +1,4 @@
-#  Stock Price Forecasting Based on News Sentiment (Course Project)
+#  “Analysis of the impact of information flow on stock prices” (Course Project)
 
 This course project investigates how financial news sentiment influences short-term stock price changes. We use FinBERT (a finance-specific BERT model) to extract sentiment from financial news, and combine it with macroeconomic indicators (S&P 500 returns) to improve predictive accuracy.
 
